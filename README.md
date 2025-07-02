@@ -5,7 +5,7 @@
 </div>
 
 ### About me
-- I'm Minju Lee, based in Singapore.
+- I'm Minju Lee, based in korea.
 - I'm a senior Full-stack developer with over five years of experience in the field.
 - Hobbies are tennis, Listeningto music.
 - My strength is self-confident, positive attitude, team-work. 
