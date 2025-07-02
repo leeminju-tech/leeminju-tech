@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/leeminju-tech"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=leeminju-tech&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" alt="JeongMin's GitHub Status" /></a>
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
