@@ -1,18 +1,21 @@
 <div>
   <h1 align='center'> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=a190b6&size=45&height=80&vCenter=true&center=true&pause=1000&lines=OverCome+Challenging!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=a190b6&size=45&height=80&vCenter=true&center=true&pause=1000&lines=Overcome+Challenging!" alt="Typing SVG" />
   </h1>
 </div>
 
 ### About me
 - I'm Minju Lee, based in Singapore.
-- I'm a senior Full-stack developer with over five years of experience in the field
+- I'm a senior Full-stack developer with over five years of experience in the field.
+- Hobbies are tennis, Listeningto music.
 - My strength is self-confident, positive attitude, team-work. 
 
 ### Experience
 -  SEO(Search engine optimization) Experience.
 -  Mentoring Experience.
 -  Leading team Experience.
+-  Healthcare app Experience.
+-  ...
   
 ### Education
 - I hold a Master degree in Computer Science from the University of Nantes which laid the foundation for my technical skills.
