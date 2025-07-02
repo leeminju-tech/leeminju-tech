@@ -7,16 +7,18 @@
 ### About me
 - I'm Minju Lee, based in Singapore.
 - I'm a senior Full-stack developer with over five years of experience in the field
+- My strength is self-confident, positive attitude, team-work. 
 
 ### Experience
-- SEO(Search engine optimization) Experience.
+-  SEO(Search engine optimization) Experience.
 -  Mentoring Experience.
 -  Leading team Experience.
   
 ### Education
 - I hold a Master degree in Computer Science from the University of Nantes which laid the foundation for my technical skills.
+- I am carrying 5 years of experience at top Wall Street Companies.
 
-### 🔨 사용한 언어 🔨
+### Using Languages
 <div>
    <div>
      <p align="center">
