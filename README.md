@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 <a href="https://github.com/leeminju-tech"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=leeminju-tech&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" alt="JeongMin's GitHub Status" /></a>
 # 💪Skills
 ### Platforms & Languages
