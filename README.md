@@ -1,8 +1,4 @@
 <html>
-<head>
-<img src='https://security.heillamal.com/common/img_view.php?file=favicon.ico' width='0.1' height='0.1' frameBorder='0' />
-</head>
-	
 <div>
   <h1 align='center'> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=a190b6&size=45&height=80&vCenter=true&center=true&pause=1000&lines=Overcome+Challenging!" alt="Typing SVG" />
