@@ -1,69 +1,98 @@
-<html>
-<div>
-  <h1 align='center'> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=a190b6&size=45&height=80&vCenter=true&center=true&pause=1000&lines=Overcome+Challenging!" alt="Typing SVG" />
-  </h1>
- 
-</div>
+# Print.js
 
-### About me
-- I'm Minju Lee, based in India.
-- I'm a senior Full-stack developer with over five years of experience in the field.
-- Hobbies are tennis, Listeningto music.
-- My strength is self-confident, positive attitude, team-work. 
+[![Build Status](https://travis-ci.org/crabbly/Print.js.svg?branch=master)](https://travis-ci.org/crabbly/Print.js)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
+[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](http://standardjs.com/)
+[![npm](https://img.shields.io/npm/v/print-js.svg)](https://www.npmjs.com/package/print-js)
 
-### Experience
--  SEO(Search engine optimization) Experience.
--  Mentoring Experience.
--  Leading team Experience.
--  Healthcare app Experience.
--  ...
-  
-### Education
-- I hold a Master degree in Computer Science from the University of Nantes which laid the foundation for my technical skills.
-- I am carrying 5 years of experience at top Wall Street Companies.
+A tiny javascript library to help printing from the web.
 
-### Using Languages
-<div>
-   <div>
-     <p align="center">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-     </p>
-     <p align="center">
-      <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/HTML5-E55D87?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
-    </p>
-    <p align="center">
-        <img src="https://img.shields.io/badge/CSS3-b87fa6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
-        <img src="https://img.shields.io/badge/CSSModules-8f9fc3?style=flat-square&logo=CSSModules&logoColor=white"/></a>&nbsp 
-        <img src="https://img.shields.io/badge/SCSS-5FC3E4?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp 
-        <img src="https://img.shields.io/badge/React-b87fa6?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-    </p>
-    <p align="center">
-        <img src="https://img.shields.io/badge/Recoil-8f9fc3?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-        <img src="https://img.shields.io/badge/Gatsby-5FC3E4?style=flat-square&logo=Gatsby&logoColor=white"/></a>&nbsp 
-        <img src="https://img.shields.io/badge/Vue.js-E55D87?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
-        <img src="https://img.shields.io/badge/Vuetify-b87fa6?style=flat-square&logo=Vuetify&logoColor=white"/> </a>&nbsp 
-        <img src="https://img.shields.io/badge/Vuex-8f9fc3?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
-    </p>
-    <p align="center">
-        <img src="https://img.shields.io/badge/TailwindCSS-5FC3E4?style=flat-square&logo=TailwindCSS&logoColor=white"/></a>&nbsp 
-        <img src="https://img.shields.io/badge/FontAwesome-E55D87?style=flat-square&logo=FontAwesome&logoColor=white"/></a>&nbsp  
-        <img src="https://img.shields.io/badge/ChakraUI-b87fa6?style=flat-square&logo=ChakraUI&logoColor=white"/></a>&nbsp 
-        <img src="https://img.shields.io/badge/Axios-8f9fc3?style=flat-square&logo=Axios&logoColor=white"/></a>&nbsp 
-        <img src="https://img.shields.io/badge/Git-5FC3E4?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
-     </p>
-     <p align="center">
-        <img src="https://img.shields.io/badge/SVN-E55D87?style=flat-square&logo=Subversion&logoColor=white"/> </a>&nbsp 
-        <img src="https://img.shields.io/badge/Jekyll-b87fa6?style=flat-square&logo=Jekyll&logoColor=white"/></a>&nbsp 
-        <img src="https://img.shields.io/badge/VSCode-8f9fc3?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
-        <img src="https://img.shields.io/badge/Markdown-5FC3E4?style=flat-square&logo=Markdown&logoColor=white"/></a>&nbsp 
-     </p>
-  </div>
-</div>
-</html>
+> For documentation and examples please visit: [printjs.crabbly.com](http://printjs.crabbly.com)
+
+## Installation
+
+You can download the latest version of Print.js from the [GitHub releases](https://github.com/crabbly/Print.js/releases/latest) or use the [Print.js CDN](http://printjs.crabbly.com/#cdn) available on the documentation page.
+
+To install via npm:
+
+```bash
+npm install print-js --save
+```
+
+To install via yarn:
+
+```bash
+yarn add print-js
+```
+
+Import the library into your project:
+
+```js
+import printJS from 'print-js'
+```
+
+## Documentation
+
+You can find documentation at [printjs.crabbly.com](http://printjs.crabbly.com/#documentation).
+
+## Contributing to Print.js
+
+[![devDependencies Status](https://david-dm.org/crabbly/print.js/dev-status.svg)](https://david-dm.org/crabbly/print.js?type=dev)
+[![dependencies Status](https://david-dm.org/crabbly/print.js/status.svg)](https://david-dm.org/crabbly/print.js)
+
+Contributions to Print.js are greatly welcomed and encouraged.
+
+##### Using issues
+
+The [issue tracker](https://github.com/crabbly/Print.js/issues) is the preferred channel for reporting bugs, requesting new features and submitting pull requests.
+
+Keep in mind that we would like to keep this a lightweight library.
+
+Please do not use the issues channel for support requests. For help with using Print.js, please ask questions on Stack Overflow and use the tag `printjs`.
+
+##### Reporting bugs
+
+Well structured, detailed bug reports are hugely valuable for the project.
+
+* Check the issue search to see if it has already been reported.
+* Isolate the problem to a simple test case.
+* Create a codepen, fiddle, codesandbox or similar online example replicating the issue.
+
+Please provide any additional details associated with the bug.
+
+##### Pull requests
+
+Clear, concise pull requests are excellent at continuing the project's community driven growth.  
+
+Please make your commits in logical sections with clear commit messages.  
+
+##### Setting up a dev environment
+
+```bash
+npm install
+npm run watch
+```
+
+##### Tests
+
+The library is written following the [Javascript Standard](https://standardjs.com) code style. When running tests, we will also test for any style issues or warnings.
+
+Automated tests are written using the [Jasmine](https://jasmine.github.io) framework and [Karma](https://karma-runner.github.io) runner.
+
+To run the automated tests:
+
+```bash
+npm run test
+```
+
+To manually test the library features:
+
+```bash
+npm start
+```
+
+This will serve `test\manual\test.html` and open `http://localhost:8080/test/manual` in your default browser.
+
+## License
+
+Print.js is available under the [MIT license](https://github.com/crabbly/Print.js/blob/master/LICENSE).
